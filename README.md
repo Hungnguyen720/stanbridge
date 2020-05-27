@@ -1,7 +1,7 @@
 
 ## Stanbridge Test Project
 
-Hello! Here is the rest project as requested. please follow the directions below
+Hello! Here is the test project as requested. please follow the directions below
 
 ## Install Packages and Dependencies
 
